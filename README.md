@@ -11,9 +11,16 @@
 - Terminal Font: 
 - Text Editor: Visual Studio Code
 - Color Scheme: Railscast
-- Browser: Firefox Developer Edition
-- Video Player: vlc
 
+
+
+
+## Apps
+
+- Browser: Firefox Developer Edition
+- [Screenshot Information Tools](https://wiki.archlinux.org/index.php/Screenshot_Information_Tools): Screenfetch
+- [Explorer](): PCManFM
+- Video Player: vlc
 
 ## Inspiration
 
