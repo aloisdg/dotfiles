@@ -17,5 +17,5 @@
 
 ## Inspiration
 
-- [/r/unixporn community])(http://reddit.com/r/unixporn)
+- [/r/unixporn community](http://reddit.com/r/unixporn)
 - [dotfiles](https://github.com/dylanaraps/dotfiles) (by @dylanaraps)
