@@ -19,6 +19,7 @@
 - [Screenshot Information Tools](https://wiki.archlinux.org/index.php/Screenshot_Information_Tools): Screenfetch
 - [Explorer](): PCManFM
 - Video Player: vlc
+- [Clipboard](https://wiki.archlinux.org/index.php/Clipboard): xsel (via urxvt-perls)
 
 ## Stylish
 
