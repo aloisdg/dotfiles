@@ -11,9 +11,7 @@
 - Terminal Font: 
 - Text Editor: Visual Studio Code
 - Color Scheme: Railscast
-
-
-
+- GTK Theme: Numix
 
 ## Apps
 
@@ -21,6 +19,10 @@
 - [Screenshot Information Tools](https://wiki.archlinux.org/index.php/Screenshot_Information_Tools): Screenfetch
 - [Explorer](): PCManFM
 - Video Player: vlc
+
+## Stylish
+
+- 
 
 ## Inspiration
 
