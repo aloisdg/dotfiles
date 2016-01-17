@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Linux Distro: [Arch Linux](https://www.archlinux.org)/
+- Linux Distro: [Arch Linux](https://www.archlinux.org)
 - Window Manager: [i3](http://i3wm.org/)
 - Bar: [i3-bar](https://wiki.archlinux.org/index.php/I3#i3bar)
 - Launcher: dmenu2
