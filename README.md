@@ -26,7 +26,7 @@
 
 - 
 
-## Inspiration
+## Inspiration or Help
 
-- [/r/unixporn community](http://reddit.com/r/unixporn)
+- [/r/unixporn community](http://reddit.com/r/unixporn) and [their wiki](https://www.reddit.com/r/unixporn/wiki/index)
 - [dotfiles](https://github.com/dylanaraps/dotfiles) (by @dylanaraps)
