@@ -15,11 +15,11 @@
 
 ## Apps
 
-- Browser: Firefox Developer Edition
+- [Browser](https://wiki.archlinux.org/index.php/Category:Web_browser): [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 - [Screenshot Information Tools](https://wiki.archlinux.org/index.php/Screenshot_Information_Tools): Screenfetch
-- [Explorer](): PCManFM
-- Video Player: vlc
-- [Clipboard](https://wiki.archlinux.org/index.php/Clipboard): xsel (via urxvt-perls)
+- [File Manager](https://wiki.archlinux.org/index.php/File_manager_functionality): [PCManFM](https://wiki.archlinux.org/index.php/PCManFM)
+- [Multimedia Player](https://wiki.archlinux.org/index.php/Category:Multimedia_players): [vlc](https://wiki.archlinux.org/index.php/VLC_media_player)
+- [Clipboard](https://wiki.archlinux.org/index.php/Clipboard): [xsel](http://www.vergenet.net/~conrad/software/xsel/) (via [urxvt-perls](https://www.archlinux.org/packages/community/any/urxvt-perls/))
 
 ## Stylish
 
