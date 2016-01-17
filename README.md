@@ -2,15 +2,15 @@
 
 ## Summary
 
-- Linux Distro: Arch Linux
-- Window Manager: i3
-- Bar: i3-bar
+- Linux Distro: [Arch Linux](https://www.archlinux.org)/
+- Window Manager: [i3](http://i3wm.org/)
+- Bar: [i3-bar](https://wiki.archlinux.org/index.php/I3#i3bar)
 - Launcher: dmenu2
-- Terminal Emulator: urxvt
-- Shell: bash
+- Terminal Emulator: [urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
+- Shell: [Bash](https://wiki.archlinux.org/index.php/Bash)
 - Terminal Font: 
-- Text Editor: Visual Studio Code
-- Color Scheme: Railscast
+- Text Editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Color Scheme: [Railscasts](http://chriskempson.github.io/base16/#railscasts)
 - [GTK Theme](https://wiki.archlinux.org/index.php/GTK%2B): [Numix](https://www.archlinux.org/packages/community/any/numix-themes/)
 
 ## Apps
