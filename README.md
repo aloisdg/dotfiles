@@ -5,7 +5,7 @@
 - Linux Distro: [Arch Linux](https://www.archlinux.org)
 - Window Manager: [i3](http://i3wm.org/)
 - Bar: [i3-bar](https://wiki.archlinux.org/index.php/I3#i3bar)
-- Launcher: dmenu2
+- [Launcher](https://wiki.archlinux.org/index.php/List_of_applications/Other#Application_launchers): [dmenu](https://wiki.archlinux.org/index.php/dmenu) (via [i3](https://wiki.archlinux.org/index.php/I3#Application_launcher))
 - Terminal Emulator: [urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
 - Shell: [Bash](https://wiki.archlinux.org/index.php/Bash)
 - Terminal Font: 
