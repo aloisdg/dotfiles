@@ -11,7 +11,7 @@
 - Terminal Font: 
 - Text Editor: Visual Studio Code
 - Color Scheme: Railscast
-- GTK Theme: Numix
+- [GTK Theme](https://wiki.archlinux.org/index.php/GTK%2B): [Numix](https://www.archlinux.org/packages/community/any/numix-themes/)
 
 ## Apps
 
