@@ -21,6 +21,7 @@
 - [Multimedia Player](https://wiki.archlinux.org/index.php/Category:Multimedia_players): [vlc](https://wiki.archlinux.org/index.php/VLC_media_player)
 - [Clipboard](https://wiki.archlinux.org/index.php/Clipboard): [xsel](http://www.vergenet.net/~conrad/software/xsel/) (via [urxvt-perls](https://www.archlinux.org/packages/community/any/urxvt-perls/))
 - [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment): [MonoDevelp](http://www.monodevelop.com)
+- [Locker]():
 
 ## Stylish
 
