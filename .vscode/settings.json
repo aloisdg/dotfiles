@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.wrappingColumn": 80,
+	"editor.fontFamily": "Roboto Mono",
+	"editor.fontSize": 14,
+	"editor.roundedSelection": false,
+	"editor.renderWhitespace": true,
+	"javascript.suggest.useCodeSnippetsOnMethodSuggest": true,
+	"javascript.validate.lint.comparisonOperatorsNotStrict": "warning",
+	"javascript.validate.lint.parametersDontMatchSignature": "warning",
+	"css.lint.important": "warning",
+	"css.lint.float": "warning",
+	"css.lint.idSelector": "warning",
+	"typescript.useCodeSnippetsOnMethodSuggest": true
+}
