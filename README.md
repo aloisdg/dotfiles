@@ -8,7 +8,7 @@
 - [Launcher](https://wiki.archlinux.org/index.php/List_of_applications/Other#Application_launchers): [dmenu](https://wiki.archlinux.org/index.php/dmenu) (via [i3](https://wiki.archlinux.org/index.php/I3#Application_launcher))
 - Terminal Emulator: [urxvt](https://wiki.archlinux.org/index.php/Rxvt-unicode)
 - [Shell](https://wiki.archlinux.org/index.php/Command-line_shell): [Bash](https://wiki.archlinux.org/index.php/Bash)
-- Terminal Font: 
+- Terminal Font: Roboto Mono
 - [Text Editor](https://wiki.archlinux.org/index.php/Category:Text_editors): [Visual Studio Code](https://code.visualstudio.com/)
 - Color Scheme: [Railscasts](http://chriskempson.github.io/base16/#railscasts)
 - [GTK Theme](https://wiki.archlinux.org/index.php/GTK%2B): [Numix](https://www.archlinux.org/packages/community/any/numix-themes/)
